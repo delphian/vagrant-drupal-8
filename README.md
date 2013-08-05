@@ -35,5 +35,6 @@ After installation script is finished open a browser and navigate to http://loca
 
 #### Reference ####
 
+* [Drupal 7 Vagrant Virtual Box](https://github.com/delphian/vagrant-drupal-7)
 * [Drush Make File](https://gist.github.com/delphian/6027415)
 * [Drupal DB & Core Install](https://gist.github.com/delphian/6043424)
