@@ -1,4 +1,4 @@
-Vagrant Drupal 6 Cesarsway
+Vagrant Drupal 8
 ==============
 
 Drupal specific vagrant configured virtual box for cesarsway development. The single command line installation 
@@ -22,15 +22,13 @@ curl -L -s http://goo.gl/lPyqNR | bash
 
 Installation script will:
 
- * Create a virtual box on 33.33.33.68
- * Modify hosts file mapping local.cesarsway.com to 33.33.33.68
+ * Create a virtual box on 33.33.33.69
+ * Modify hosts file mapping local.drupal8.org to 33.33.33.69
  * Create the drupal database.
- * Clone the cesarsway repository into the public_html vbox document root.
- * Import a recent copy of the cesarsway database from acquia.
  * Enable modules: devel, dblog
 
 #### Usage ####
 
-After installation script is finished open a browser and navigate to http://local.cesarsway.com
+After installation script is finished open a browser and navigate to http://local.drupal8.org
 (If Chrome is present on Mac OSX the script will attempt to automtically open the browser)
 
