@@ -1,8 +1,8 @@
 Vagrant Drupal 8
 ==============
 
-Drupal specific vagrant configured virtual box for cesarsway development. The single command line installation 
-script will take care of everything, and when finished http://local.cesarsway.com should be accessable for review.
+Drupal specific vagrant configured virtual box for drupal 8 development. The single command line installation 
+script will take care of everything, and when finished http://local.drupal8.org should be accessable for review.
 This repo makes use of the submodule [Vagrant](https://github.com/delphian/vagrant) which contains all the actual
 vagrant configuration and puppet scripts.
 
