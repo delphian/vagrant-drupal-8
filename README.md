@@ -32,3 +32,8 @@ Installation script will:
 After installation script is finished open a browser and navigate to http://local.drupal8.org
 (If Chrome is present on Mac OSX the script will attempt to automtically open the browser)
 
+
+#### Reference ####
+
+* [Drush Make File](https://gist.github.com/delphian/6027415)
+* [Drupal DB & Core Install](https://gist.github.com/delphian/6043424)
