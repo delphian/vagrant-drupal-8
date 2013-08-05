@@ -17,7 +17,7 @@ vagrant configuration and puppet scripts.
 Copy and paste this into your shell to install everything:
 
 ```
-curl -L -s http://goo.gl/lPyqNR | bash
+curl -L -s http://goo.gl/WH6RIU | bash
 ```
 
 Installation script will:
